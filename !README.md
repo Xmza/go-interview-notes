@@ -8,4 +8,4 @@
 ## FALSE   Planner.md
 ## FALSE   Primitives of synchronization.md
 ## FALSE   Race condition.md
-<pre> ```diff ## FALSE   Race condition.md ``` </pre>
+<pre> ```diff + ## FALSE   Race condition.md ``` </pre>
