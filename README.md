@@ -1,7 +1,7 @@
 📗 / 📕
 
 ## TRUE   Arrays & Slices.md📗
-## FALSE   Channels.md📕
+## TRUE   Channels.md📗
 ## FALSE   Exception and panic.md📕
 ## FALSE   Goroutines.md📕
 ## FALSE   Interface.md📕
