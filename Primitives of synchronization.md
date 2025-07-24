@@ -1,4 +1,4 @@
-#Primitives of synchronization
+# Primitives of synchronization
 
 
 - [Какие примитивы синхронизации есть в Golang?](#какие-примитивы-синхронизации-есть-в-golang)
