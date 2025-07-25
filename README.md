@@ -4,7 +4,7 @@
 ## TRUE   Channels.md📗
 ## TRUE   Exception and panic.md📗
 ## TRUE   Goroutines.md📗
-## FALSE   Interface.md📕
+## TRUE   Interface.md📗
 ## FALSE   MAP.md📕
 ## FALSE   OOP.md📕
 ## FALSE   Planner.md📕
