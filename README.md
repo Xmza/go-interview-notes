@@ -8,5 +8,5 @@
 ## TRUE   MAP.md📗
 ## TRUE   OOP.md📗
 ## TRUE   Planner.md📗
-## FALSE   Primitives of synchronization.md📕
+## TRUE   Primitives of synchronization.md📗
 ## FALSE   Race condition.md📕
