@@ -6,7 +6,7 @@
 ## TRUE   Goroutines.md📗
 ## TRUE   Interface.md📗
 ## TRUE   MAP.md📗
-## FALSE   OOP.md📕
+## TRUE   OOP.md📗
 ## FALSE   Planner.md📕
 ## FALSE   Primitives of synchronization.md📕
 ## FALSE   Race condition.md📕
