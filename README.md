@@ -7,6 +7,6 @@
 ## TRUE   Interface.md📗
 ## TRUE   MAP.md📗
 ## TRUE   OOP.md📗
-## FALSE   Planner.md📕
+## TRUE   Planner.md📗
 ## FALSE   Primitives of synchronization.md📕
 ## FALSE   Race condition.md📕
