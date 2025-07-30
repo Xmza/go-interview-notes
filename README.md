@@ -9,4 +9,4 @@
 ## TRUE   OOP.md📗
 ## TRUE   Planner.md📗
 ## TRUE   Primitives of synchronization.md📗
-## FALSE   Race condition.md📕
+## TRUE   Race condition.md📗
