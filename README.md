@@ -1,6 +1,6 @@
 📗 / 📕
 
-## TRUE   Arrays & Slices.md📗
+## TRUE   Arrays & Slices.md (#Arrays-&-Slices.md) 📗
 ## TRUE   Channels.md📗
 ## TRUE   Exception and panic.md📗
 ## TRUE   Goroutines.md📗
