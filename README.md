@@ -3,7 +3,7 @@
 # Шпаргалка по Golang
 
 <details>
-<summary><strong>Arrays & Slices</strong></summary> 📗
+<summary><strong>Arrays & Slices 📗</strong></summary>
 
 1. [Что такое слайс?](Theme/Arrays_&_Slices.md#что-такое-слайс) 
 2. [Чем массив отличается от слайса? Чем хорош массив по сравнению со слайсом?](Theme/Arrays_&_Slices.md#чем-массив-отличается-от-слайса)
@@ -14,7 +14,7 @@
 </details>
 
 <details>
-<summary><strong>Channels</strong></summary> 📗
+<summary><strong>Channels 📗</strong></summary>
 
 1. [Что такое каналы?](Theme/Channels.md#что-такое-каналы)
 2. [Как устроен канал и как он работает под капотом?](Theme/Channels.md#устройство-канала)
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-<summary><strong>Exception and panic</strong></summary> 📗
+<summary><strong>Exception and panic 📗</strong></summary>
 
 1. [recover происходит только в той горутине где произошла паника](Theme/Exception_and_panic.md#recover-горутина)
 2. [Чем отличается работа с ошибками в Golang от других языков?](Theme/Exception_and_panic.md#ошибки-go)
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary><strong>Goroutines</strong></summary> 📗
+<summary><strong>Goroutines 📗</strong></summary>
 
 1. [Что такое горутина?](Theme/Goroutines.md#горутина)
 2. [Чем горутина отличается от треда?](Theme/Goroutines.md#горутина-тред)
@@ -49,7 +49,7 @@
 </details>
 
 <details>
-<summary><strong>Interface</strong></summary> 📗
+<summary><strong>Interface 📗</strong></summary>
 
 1. [Что такое интерфейс?](Theme/Interface.md#интерфейс)
 2. [Для чего используются интерфейсы и как они устроены?](Theme/Interface.md#использование-интерфейсов)
@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary><strong>MAP</strong></summary> 📗
+<summary><strong>MAP 📗</strong></summary>
 
 1. [Что такое мапа?](Theme/MAP.md#мапа)
 2. [Как устроена мапа под капотом?](Theme/MAP.md#устройство-мапы)
@@ -73,7 +73,7 @@
 </details>
 
 <details>
-<summary><strong>OOP</strong></summary> 📗
+<summary><strong>OOP 📗</strong></summary>
 
 1. [Как устроено ООП в Golang?](Theme/OOP.md#oop-в-go)
 2. [Как реализуются принципы (наследование, абстракция, инкапсуляция, полиморфизм)?](Theme/OOP.md#принципы-oop)
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-<summary><strong>Planner</strong></summary> 📗
+<summary><strong>Planner 📗</strong></summary>
 
 1. [Как работает планировщик в Golang?](Theme/Planner.md#планировщик)
 2. [Как работает вытесняющая многозадачность?](Theme/Planner.md#вытесняющая-многозадачность)
@@ -92,7 +92,7 @@
 </details>
 
 <details>
-<summary><strong>Primitives of synchronization</strong></summary> 📗
+<summary><strong>Primitives of synchronization 📗</strong></summary>
 
 1. [Какие примитивы синхронизации есть в Golang?](Theme/Primitives_of_synchronization.md#примитивы)
 2. [Чем мьютекс отличается от семафора?](Theme/Primitives_of_synchronization.md#мьютекс-семафор)
@@ -106,7 +106,7 @@
 </details>
 
 <details>
-<summary><strong>Race condition</strong></summary> 📗
+<summary><strong>Race condition 📗</strong></summary>
 
 1. [Что такое race condition?](Theme/Race_condition.md#race-condition)
 2. [Как обнаружить race condition?](Theme/Race_condition.md#обнаружение)
