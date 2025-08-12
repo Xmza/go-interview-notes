@@ -11,3 +11,5 @@ Concurrency паттерны в Go
 cache contention
 
 Локальная и глобальная очередь горутин или тредов 
+
+ I/O-Bound
