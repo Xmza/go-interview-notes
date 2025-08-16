@@ -158,3 +158,13 @@
 4. [Как замерять производительность go-test--bench](Theme/Testing.md#как-замерять-производительность-go-test--bench)
 5. [Что такое race-detector go-test--race](Theme/Testing.md#что-такое-race-detector-go-test--race)
 </details>
+
+<details>
+<summary><strong>Tools_and_ecosystem 📕</strong></summary>
+
+1. [Что делает go-mod-tidy go-mod-vendor go-mod-graph](Theme/Tools_and_ecosystem.md#что-делает-go-mod-tidy-go-mod-vendor-go-mod-graph)
+2. [Как устроен go-build какие этапы компиляции](Theme/Tools_and_ecosystem.md#как-устроен-go-build-какие-этапы-компиляции)
+3. [Что делает go-generate](Theme/Tools_and_ecosystem.md#что-делает-go-generate)
+4. [Как работает go-fmt-и-go-vet](Theme/Tools_and_ecosystem.md#как-работает-go-fmt-и-go-vet)
+5. [Что такое pprof и как с ним работать](Theme/Tools_and_ecosystem.md#что-такое-pprof-и-как-с-ним-работать)
+</details>
