@@ -75,11 +75,11 @@
 <details>
 <summary><strong>Memory_managment 📗</strong></summary>
   
-1. [Как устроен GC в Go (алгоритм, поколения, stop-the-world и т.д.)](Theme/Memory_managment.md#Как_устроен_GC_в_Go)
-2. [Что такое escape analysis (как работает go-build--gcflags-m-почему-переменная-уходит-в-heap)](Theme/Memory_managment.md#Что_такое_escape_analysis)
-3. [Как устроен heap vs stack в Go](Theme/Memory_managment.md#Как_устроен_heap_vs_stack_в_Go)
-4. [Что такое zero value и зачем Go так сделан](Theme/Memory_managment.md#Что_такое_zero_value_и_зачем_Go_так_сделан)
-5. [Что такое arena allocator (новое в Go 122)](Theme/Memory_managment.md#Что_такое_arena_allocator)
+1. [Как устроен GC в Go (алгоритм, поколения, stop-the-world и т.д.)](Theme/Memory_managment.md#как-устроен-GC-в-Go)
+2. [Что такое escape analysis (как работает go-build--gcflags-m-почему-переменная-уходит-в-heap)](Theme/Memory_managment.md#что-такое-escape-analysis)
+3. [Как устроен heap vs stack в Go](Theme/Memory_managment.md#как-устроен-heap-vs-stack-в-Go)
+4. [Что такое zero value и зачем Go так сделан](Theme/Memory_managment.md#что-такое-zero-value-и-зачем-Go-так-сделан)
+5. [Что такое arena allocator (новое в Go 122)](Theme/Memory_managment.md#что-такое-arena-allocator)
 </details>
 
 <details>
