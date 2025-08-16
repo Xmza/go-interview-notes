@@ -72,6 +72,16 @@
 9. [Можно ли взять адрес элемента мапы и почему?](Theme/MAP.md#можно-ли-взять-адрес-элемента-мапы-и-почему)
 </details>
 
+
+<details>
+<summary><strong>MAP 📗</strong></summary>
+- [Как устроен GC в Go (алгоритм, поколения, stop-the-world и т.д.)](Theme/Memory_managment.md#Как_устроен_GC_в_Go)
+- [Что такое escape analysis (как работает go-build--gcflags-m-почему-переменная-уходит-в-heap)](Theme/Memory_managment.md#Что_такое_escape_analysis)
+- [Как устроен heap vs stack в Go](Theme/Memory_managment.md#Как_устроен_heap_vs_stack_в_Go)
+- [Что такое zero value и зачем Go так сделан](Theme/Memory_managment.md#Что_такое_zero_value_и_зачем_Go_так_сделан)
+- [Что такое arena allocator (новое в Go 122)](Theme/Memory_managment.md#Что_такое_arena_allocator)
+</details>
+
 <details>
 <summary><strong>OOP 📗</strong></summary>
 
