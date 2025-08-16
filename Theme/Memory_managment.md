@@ -1,10 +1,10 @@
 # Memory management & runtime
 
-- [Как устроен GC в Go (алгоритм, поколения, stop-the-world и т.д.)](#Как_устроен_GC_в_Go)
-- [Что такое escape analysis (как работает go-build--gcflags-m-почему-переменная-уходит-в-heap)](#Что_такое_escape_analysis)
-- [Как устроен heap vs stack в Go](#Как_устроен_heap_vs_stack_в_Go)
-- [Что такое zero value и зачем Go так сделан](#Что_такое_zero_value_и_зачем_Go_так_сделан)
-- [Что такое arena allocator (новое в Go 122)](#Что_такое_arena_allocator)
+- [Как устроен GC в Go (алгоритм, поколения, stop-the-world и т.д.)](#как_устроен_GC_в_Go)
+- [Что такое escape analysis (как работает go-build--gcflags-m-почему-переменная-уходит-в-heap)](#что_такое_escape_analysis)
+- [Как устроен heap vs stack в Go](#как_устроен_heap_vs_stack_в_Go)
+- [Что такое zero value и зачем Go так сделан](#что_такое_zero_value_и_зачем_Go_так_сделан)
+- [Что такое arena allocator (новое в Go 122)](#что_такое_arena_allocator)
 
 ## Как устроен GC в Go
 Go использует параллельный, трёхцветный, mark-and-sweep GC.
