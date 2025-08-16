@@ -148,3 +148,13 @@
 2. [Как обнаружить race condition?](Theme/Race_condition.md#как-обнаружить-race-condition)
 3. [Какие есть способы устранения race condition?](Theme/Race_condition.md#какие-есть-способы-устранения-race-condition)
 </details>
+
+<details>
+<summary><strong>Testing 📕</strong></summary>
+
+1. [Как устроен пакет testing](Theme/Testing.md#как-устроен-пакет-testing)
+2. [Что такое tHelper](Theme/Testing.md#что-такое-thelper)
+3. [Как писать table-driven-tests](Theme/Testing.md#как-писать-table-driven-tests)
+4. [Как замерять производительность go-test--bench](Theme/Testing.md#как-замерять-производительность-go-test--bench)
+5. [Что такое race-detector go-test--race](Theme/Testing.md#что-такое-race-detector-go-test--race)
+</details>
