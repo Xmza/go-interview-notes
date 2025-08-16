@@ -121,6 +121,16 @@
 </details>
 
 <details>
+<summary><strong>Microservices 📕</strong></summary>
+  
+1. [Как Go используют в микросервисной архитектуре](Theme/Microservices.md#как-go-используют-в-микросервисной-архитектуре)
+2. [Как общаются микросервисы gRPC vs REST](Theme/Microservices.md#как-общаются-микросервисы-grpc-vs-rest)
+3. [Как работать с Kafka из Go](Theme/Microservices.md#как-работать-с-kafka-из-go)
+4. [Как работать с Redis в Go](Theme/Microservices.md#как-работать-с-redis-в-go)
+5. [Как правильно организовать graceful shutdown микросервиса](Theme/Microservices.md#как-правильно-организовать-graceful-shutdown-микросервиса)
+</details>
+
+<details>
 <summary><strong>Network_and_system 📕</strong></summary>
   
 1. [Как работает context.Context и зачем нужен](Theme/Network_and_system.md#как-работает-contextcontext-и-зачем-нужен)
