@@ -108,6 +108,16 @@
 </details>
 
 <details>
+<summary><strong>Network_and_system 📕</strong></summary>
+  
+1. [Как работает context.Context и зачем нужен](Theme/Network_and_system.md#как-работает-contextcontext-и-зачем-нужен)
+2. [Чем отличается contextWithCancel vs WithDeadline vs WithTimeout](Theme/Network_and_system.md#чем-отличается-contextwithcancel-vs-withdeadline-vs-withtimeout)
+3. [Что будет если не вызывать cancel](Theme/Network_and_system.md#что-будет-если-не-вызывать-cancel)
+4. [Что будет если закрыть httpResponseBody не вызвать](Theme/Network_and_system.md#что-будет-если-закрыть-httpresponsebody-не-вызвать)
+5. [Как устроен nethttp-сервер под капотом](Theme/Network_and_system.md#как-устроен-nethttp-сервер-под-капотом)
+</details>
+
+<details>
 <summary><strong>OOP 📗</strong></summary>
 
 1. [Как устроено ООП в Golang?](Theme/OOP.md#как-устроено-ооп-в-golang)
