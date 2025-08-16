@@ -125,9 +125,9 @@
   
 1. [Как Go используют в микросервисной архитектуре](Theme/Microservices.md#как-go-используют-в-микросервисной-архитектуре)
 2. [Как общаются микросервисы gRPC vs REST](Theme/Microservices.md#как-общаются-микросервисы-grpc-vs-rest)
-3. [Как работать с Kafka из Go](Theme/Microservices.md#как-работать-с-kafka-из-go)
-4. [Как работать с Redis в Go](Theme/Microservices.md#как-работать-с-redis-в-go)
-5. [Как правильно организовать graceful shutdown микросервиса](Theme/Microservices.md#как-правильно-организовать-graceful-shutdown-микросервиса)
+3. [Kafka: ключевые вопросы на собеседовании](Theme/Microservices.md#kafka-ключевые-вопросы-на-собеседовании)
+4. [Redis: ключевые вопросы на собеседовании](Theme/Microservices.md#redis-ключевые-вопросы-на-собеседовании)
+5. [Graceful shutdown микросервиса](Theme/Microservices.md#graceful-shutdown-микросервиса)
 </details>
 
 <details>
