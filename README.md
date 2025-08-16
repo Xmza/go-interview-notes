@@ -29,6 +29,18 @@
 </details>
 
 <details>
+<summary><strong>Concurrency_&_parallelism 📕</strong></summary>
+
+1. [Чем отличается параллелизм от конкурентности](Theme/Concurrency_&_parallelism.md#чем-отличается-параллелизм-от-конкурентности)
+2. [Сколько по умолчанию горутин может выполняться параллельно (GOMAXPROCS)](Theme/Concurrency_&_parallelism.md#сколько-по-умолчанию-горути-н-может-выполняться-параллельно-gomaxprocs)
+3. [Как работает work stealing в планировщике](Theme/Concurrency_&_parallelism.md#как-работает-work-stealing-в-планировщике)
+4. [Что будет если main завершится а горутины продолжают работать](Theme/Concurrency_&_parallelism.md#что-будет-если-main-завершится-а-горутины-продолжают-работать)
+5. [Что такое deadlock и как его поймать](Theme/Concurrency_&_parallelism.md#что-такое-deadlock-и-как-его-поймать)
+6. [Что такое livelock чем отличается от-deadlock](Theme/Concurrency_&_parallelism.md#что-такое-livelock-чем-отличается-от-deadlock)
+7. [Чем отличается blocking-vs-non-blocking-канал](Theme/Concurrency_&_parallelism.md#чем-отличается-blocking-vs-non-blocking-канал)
+</details>
+
+<details>
 <summary><strong>Exception and panic 📗</strong></summary>
 
 1. [recover происходит только в той горутине где произошла паника](Theme/Exception_and_panic.md#recover-происходит-только-в-той-горутине-где-произошла-паника)
@@ -73,7 +85,7 @@
 </details>
 
 <details>
-<summary><strong>Memory_managment 📗</strong></summary>
+<summary><strong>Memory_managment 📕</strong></summary>
   
 1. [Как устроен GC в Go (алгоритм, поколения, stop-the-world и т.д.)](Theme/Memory_managment.md#как-устроен-GC-в-Go)
 2. [Что такое escape analysis (как работает go-build--gcflags-m-почему-переменная-уходит-в-heap)](Theme/Memory_managment.md#что-такое-escape-analysis)
