@@ -74,7 +74,7 @@
 
 
 <details>
-<summary><strong>MAP 📗</strong></summary>
+<summary><strong>Memory_managment 📗</strong></summary>
 - [Как устроен GC в Go (алгоритм, поколения, stop-the-world и т.д.)](Theme/Memory_managment.md#Как_устроен_GC_в_Go)
 - [Что такое escape analysis (как работает go-build--gcflags-m-почему-переменная-уходит-в-heap)](Theme/Memory_managment.md#Что_такое_escape_analysis)
 - [Как устроен heap vs stack в Go](Theme/Memory_managment.md#Как_устроен_heap_vs_stack_в_Go)
