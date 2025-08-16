@@ -16,14 +16,14 @@
 <details>
 <summary><strong>Advanced 📕</strong></summary>
 
-1. [Как устроен reflect и зачем нужен](#как-устроен-reflect-и-зачем-нужен)
-2. [Что такое generics в Go какие ограничения](#что-такое-generics-в-go-какие-ограничения)
-3. [Чем отличаются interface{} vs any](#чем-отличаются-interface-vs-any)
-4. [Что будет если сделать циклическую зависимость пакетов](#что-будет-если-сделать-циклическую-зависимость-пакетов)
-5. [Как работает unsafePointer и когда его использовать](#как-работает-unsafepointer-и-когда-его-использовать)
-6. [Что такое atomicValue и когда использовать вместо мьютекса](#что-такое-atomicvalue-и-когда-использовать-вместо-мьютекса)
-7. [Как устроен syncOnce](#как-устроен-synconce)
-8. [Зачем нужен build-tags](#зачем-нужен-build-tags)
+1. [Как устроен reflect и зачем нужен](Theme/Advanced.md#как-устроен-reflect-и-зачем-нужен)
+2. [Что такое generics в Go какие ограничения](Theme/Advanced.md#что-такое-generics-в-go-какие-ограничения)
+3. [Чем отличаются interface{} vs any](Theme/Advanced.md#чем-отличаются-interface-vs-any)
+4. [Что будет если сделать циклическую зависимость пакетов](Theme/Advanced.md#что-будет-если-сделать-циклическую-зависимость-пакетов)
+5. [Как работает unsafePointer и когда его использовать](Theme/Advanced.md#как-работает-unsafepointer-и-когда-его-использовать)
+6. [Что такое atomicValue и когда использовать вместо мьютекса](Theme/Advanced.md#что-такое-atomicvalue-и-когда-использовать-вместо-мьютекса)
+7. [Как устроен syncOnce](Theme/Advanced.md#как-устроен-synconce)
+8. [Зачем нужен build-tags](Theme/Advanced.md#зачем-нужен-build-tags)
 </details>
 
 <details>
