@@ -172,6 +172,22 @@ func main() {
 }
 ```
 
+### Блок кода без языка (`pre`)
+
+```markdown
+```
+
+Это просто текст
+который выводится как есть
+
+```
+```
+
+```
+Это просто текст
+который выводится как есть
+```
+
 ### Escaping символов
 
 ```markdown
@@ -211,6 +227,20 @@ func main() {
 | :---- | :---: | -----: |
 | a     |   b   |      c |
 | d     |   e   |      f |
+
+### Таблицы с чекбоксами
+
+```markdown
+| Задача | Статус |
+|--------|--------|
+| Сделать | [x]   |
+| Проверить | [ ] |
+```
+
+| Задача    | Статус |
+| --------- | ------ |
+| Сделать   | \[x]   |
+| Проверить | \[ ]   |
 
 ---
 
@@ -319,15 +349,23 @@ graph TD;
 
 ---
 
-## 14. Таблицы задач (Project boards)
+## 14. Детали / спойлер
 
 ```markdown
-- [ ] Task 1
-- [x] Task 2
+<details>
+<summary>Нажми меня</summary>
+
+Скрытый текст внутри блока
+
+</details>
 ```
 
-* [ ] Task 1
-* [x] Task 2
+<details>
+<summary>Нажми меня</summary>
+
+Скрытый текст внутри блока
+
+</details>
 
 ---
 
@@ -377,16 +415,56 @@ on: [push]
 
 ---
 
-## 17. Таблицы с чекбоксами (GFM)
+## 17. Аббревиатуры (HTML)
 
 ```markdown
-| Задача | Статус |
-|--------|--------|
-| Сделать | [x]   |
-| Проверить | [ ] |
+<abbr title="HyperText Markup Language">HTML</abbr>
 ```
 
-| Задача    | Статус |
-| --------- | ------ |
-| Сделать   | \[x]   |
-| Проверить | \[ ]   |
+<abbr title="HyperText Markup Language">HTML</abbr>
+
+---
+
+## 18. Автоматическая генерация оглавления (GitHub)
+
+Просто вставь заголовки — GitHub сгенерирует ToC справа.
+
+---
+
+## 19. Вставка видео/iframe (HTML)
+
+```markdown
+<iframe width="300" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
+```
+
+<iframe width="300" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
+
+---
+
+## 20. HTML-блоки `<pre>`
+
+```markdown
+<pre>
+Это преформатированный
+   текст с пробелами
+</pre>
+```
+
+<pre>
+Это преформатированный
+   текст с пробелами
+</pre>
+
+---
+
+## 21. Комбинирование Markdown + HTML
+
+```markdown
+<blockquote>
+  <p><strong>Важное:</strong> Можно использовать HTML внутри Markdown</p>
+</blockquote>
+```
+
+<blockquote>
+  <p><strong>Важное:</strong> Можно использовать HTML внутри Markdown</p>
+</blockquote>
