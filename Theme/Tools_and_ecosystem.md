@@ -9,8 +9,6 @@
 ---
 
 
-<kbd>Ctrl+C</kbd> — копировать.
-
 ## Что делает go mod tidy go mod vendor go mod graph
 
 * `go mod tidy` — убирает неиспользуемые зависимости и добавляет недостающие.
