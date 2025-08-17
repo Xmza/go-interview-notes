@@ -183,7 +183,7 @@
 </details>
 
 <details>
-<summary><strong>Testing 📕</strong></summary>
+<summary><strong>Testing 📗</strong></summary>
 
 1. [Как устроен пакет testing](Theme/Testing.md#как-устроен-пакет-testing)
 2. [Что такое tHelper](Theme/Testing.md#что-такое-thelper)
