@@ -3,7 +3,7 @@
 # Шпаргалка по Golang
 
 <details>
-<summary><strong>Arrays & Slices 📗</strong></summary>
+<summary><strong>Arrays & Slices * [x]📗</strong></summary>
 
 1. [Что такое слайс?](Theme/Arrays_&_Slices.md#что-такое-слайс) 
 2. [Чем массив отличается от слайса? Чем хорош массив по сравнению со слайсом?](Theme/Arrays_&_Slices.md#чем-массив-отличается-от-слайса-чем-хорош-массив-по-сравнению-со-слайсом)
