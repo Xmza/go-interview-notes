@@ -193,7 +193,7 @@
 </details>
 
 <details>
-<summary><strong>Tools_and_ecosystem 📕</strong></summary>
+<summary><strong>Tools_and_ecosystem 📗</strong></summary>
 
 1. [Что делает go-mod-tidy go-mod-vendor go-mod-graph](Theme/Tools_and_ecosystem.md#что-делает-go-mod-tidy-go-mod-vendor-go-mod-graph)
 2. [Как устроен go-build какие этапы компиляции](Theme/Tools_and_ecosystem.md#как-устроен-go-build-какие-этапы-компиляции)
