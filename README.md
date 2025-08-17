@@ -131,7 +131,7 @@
 </details>
 
 <details>
-<summary><strong>Network_and_system 📕</strong></summary>
+<summary><strong>Network_and_system 📗</strong></summary>
   
 1. [Как работает context.Context и зачем нужен](Theme/Network_and_system.md#как-работает-contextcontext-и-зачем-нужен)
 2. [Чем отличается contextWithCancel vs WithDeadline vs WithTimeout](Theme/Network_and_system.md#чем-отличается-contextwithcancel-vs-withdeadline-vs-withtimeout)
