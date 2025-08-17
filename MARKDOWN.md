@@ -503,7 +503,7 @@ on: [push]
 [!CAUTION]Опасность.
 
 
-14. Диаграммы (Mermaid)
+## 23. Диаграммы (Mermaid)
 ```mermaid
 graph TD;
     A-->B;
@@ -520,7 +520,7 @@ graph TD;
     C-->D;
 
 
-15. Медиа
+## 24. Медиа
 
 
 
