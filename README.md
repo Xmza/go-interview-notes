@@ -111,7 +111,7 @@
 </details>
 
 <details>
-<summary><strong>Memory_managment 📕</strong></summary>
+<summary><strong>Memory_managment 📗</strong></summary>
   
 1. [Как устроен GC в Go (алгоритм, поколения, stop-the-world и т.д.)](Theme/Memory_managment.md#как-устроен-GC-в-Go)
 2. [Что такое escape analysis (как работает go-build--gcflags-m-почему-переменная-уходит-в-heap)](Theme/Memory_managment.md#что-такое-escape-analysis)
