@@ -128,6 +128,8 @@
 3. [Kafka: ключевые вопросы на собеседовании](Theme/Microservices.md#kafka-ключевые-вопросы-на-собеседовании)
 4. [Redis: ключевые вопросы на собеседовании](Theme/Microservices.md#redis-ключевые-вопросы-на-собеседовании)
 5. [Graceful shutdown микросервиса](Theme/Microservices.md#graceful-shutdown-микросервиса)
+6. [Docker](Theme/Microservices.md#docker)
+7. [K8s](Theme/Microservices.md#k8s)
 </details>
 
 <details>
