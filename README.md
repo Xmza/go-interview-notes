@@ -121,7 +121,7 @@
 </details>
 
 <details>
-<summary><strong>Microservices 📕</strong></summary>
+<summary><strong>Microservices 📗</strong></summary>
   
 1. [Как Go используют в микросервисной архитектуре](Theme/Microservices.md#как-go-используют-в-микросервисной-архитектуре)
 2. [Как общаются микросервисы gRPC vs REST](Theme/Microservices.md#как-общаются-микросервисы-grpc-vs-rest)
