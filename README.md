@@ -84,7 +84,7 @@
 </details>
 
 <details>
-<summary><strong>Language details 📕</strong></summary>
+<summary><strong>Language details 📗</strong></summary>
 
 1. [Что такое defer, порядок выполнения, оптимизации компилятора](Theme/Language_details.md#что-такое-defer-порядок-выполнения-оптимизации-компилятора)
 2. [Как работает init(), порядок вызова в пакете и между пакетами](Theme/Language_details.md#как-работает-init-порядок-вызова-в-пакете-и-между-пакетами)
