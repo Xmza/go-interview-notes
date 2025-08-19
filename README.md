@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary><strong>Concurrency_&_parallelism 📕</strong></summary>
+<summary><strong>Concurrency_&_parallelism 📗</strong></summary>
 
 1. [Чем отличается параллелизм от конкурентности](Theme/Concurrency_&_parallelism.md#чем-отличается-параллелизм-от-конкурентности)
 2. [Сколько по умолчанию горутин может выполняться параллельно (GOMAXPROCS)](Theme/Concurrency_&_parallelism.md#сколько-по-умолчанию-горутин-может-выполняться-параллельно-gomaxprocs)
