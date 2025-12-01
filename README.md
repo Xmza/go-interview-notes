@@ -203,3 +203,61 @@
 4. [Как работает go-fmt-и-go-vet](Theme/Tools_and_ecosystem.md#как-работает-go-fmt-и-go-vet)
 5. [Что такое pprof и как с ним работать](Theme/Tools_and_ecosystem.md#что-такое-pprof-и-как-с-ним-работать)
 </details>
+
+<details>
+<summary><strong>Architecture & SOLID 📕</strong></summary>
+
+1. [Как применить принципы SOLID в Go? (Примеры)](Theme/Architecture.md#как-применить-принципы-solid-в-go-примеры)
+2. [Dependency Injection в Go: зачем нужно и какие есть библиотеки (Wire, Dig)?](Theme/Architecture.md#dependency-injection-в-go-зачем-нужно-и-какие-есть-библиотеки)
+3. [Чистая архитектура (Clean Architecture): слои, где писать бизнес-логику?](Theme/Architecture.md#чистая-архитектура-clean-architecture-слои-где-писать-бизнес-логику)
+4. [Hexagonal Architecture (Ports and Adapters) простыми словами](Theme/Architecture.md#hexagonal-architecture-ports-and-adapters-простыми-словами)
+5. [Разница между Monolith и Microservices: когда стоит пилить монолит?](Theme/Architecture.md#разница-между-monolith-и-microservices-когда-стоит-пилить-монолит)
+6. [Структура проекта: Standard Go Project Layout (cmd, internal, pkg)](Theme/Architecture.md#структура-проекта-standard-go-project-layout-cmd-internal-pkg)
+7. [Domain Driven Design (DDD) в Go: Агрегаты, Value Objects, Entities](Theme/Architecture.md#domain-driven-design-ddd-в-go-агрегаты-value-objects-entities)
+</details>
+
+<details>
+<summary><strong>Databases & SQL 📗</strong></summary>
+
+1. [Как работает пулинг соединений (Connection Pool) в database/sql?](Theme/Databases.md#как-работает-пулинг-соединений-connection-pool-в-databasesql)
+2. [Как избежать SQL Injection в Go?](Theme/Databases.md#как-избежать-sql-injection-в-go)
+3. [Проблема NULL значений в SQL и как с ними работать в Go (sql.NullString vs *string)](Theme/Databases.md#проблема-null-значений-в-sql-и-как-с-ними-работать-в-go)
+4. [Транзакции в Go: как правильно открывать, комитить и откатывать?](Theme/Databases.md#транзакции-в-go-как-правильно-открывать-комитить-и-откатывать)
+5. [Подготовленные запросы (Prepared Statements): зачем нужны и как влияют на performance?](Theme/Databases.md#подготовленные-запросы-prepared-statements-зачем-нужны-и-как-влияют-на-performance)
+6. [ORM vs Raw SQL vs Query Builders (GORM, sqlx, Squirrel) - плюсы и минусы](Theme/Databases.md#orm-vs-raw-sql-vs-query-builders-gorm-sqlx-squirrel---плюсы-и-минусы)
+7. [Оптимистическая и пессимистическая блокировка](Theme/Databases.md#оптимистическая-и-пессимистическая-блокировка)
+8. [Миграции БД: инструменты (Goose, Migrate) и стратегии](Theme/Databases.md#миграции-бд-инструменты-goose-migrate-и-стратегии)
+</details>
+
+<details>
+<summary><strong>Design Patterns (Go Idioms) 📕</strong></summary>
+
+1. [Паттерн Functional Options (Конфигурация объектов)](Theme/Design_Patterns.md#паттерн-functional-options-конфигурация-объектов)
+2. [Паттерн Singleton (через sync.Once)](Theme/Design_Patterns.md#паттерн-singleton-через-synconce)
+3. [Паттерн Builder и Factory Method в Go](Theme/Design_Patterns.md#паттерн-builder-и-factory-method-в-go)
+4. [Паттерн Adapter (Использование интерфейсов для подмены реализаций)](Theme/Design_Patterns.md#паттерн-adapter-использование-интерфейсов-для-подмены-реализаций)
+5. [Паттерн Strategy (Смена поведения в рантайме)](Theme/Design_Patterns.md#паттерн-strategy-смена-поведения-в-рантайме)
+6. [Паттерн Worker Pool (Реализация на каналах)](Theme/Design_Patterns.md#паттерн-worker-pool-реализация-на-каналах)
+7. [Паттерн Pipeline (Конвейер обработки данных)](Theme/Design_Patterns.md#паттерн-pipeline-конвейер-обработки-данных)
+8. [Паттерн Circuit Breaker (для микросервисов)](Theme/Design_Patterns.md#паттерн-circuit-breaker-для-микросервисов)
+</details>
+
+<details>
+<summary><strong>Security 📕</strong></summary>
+
+1. [Как правильно хранить пароли? (bcrypt, argon2, salt)](Theme/Security.md#как-правильно-хранить-пароли-bcrypt-argon2-salt)
+2. [Что такое JWT, JWE, JWS и где их хранить (Cookie vs LocalStorage)?](Theme/Security.md#что-такое-jwt-jwe-jws-и-где-их-хранить-cookie-vs-localstorage)
+3. [Защита от XSS и CSRF атак в Go веб-приложениях](Theme/Security.md#защита-от-xss-и-csrf-атак-в-go-веб-приложениях)
+4. [TLS/SSL: Как поднять HTTPS сервер на Go?](Theme/Security.md#tlsssl-как-поднять-https-сервер-на-go)
+5. [Как безопасно работать с конфигами и секретами (ENV, Hashicorp Vault)?](Theme/Security.md#как-безопасно-работать-с-конфигами-и-секретами-env-hashicorp-vault)
+</details>
+
+<details>
+<summary><strong>Linux & DevOps (Basic for Go Dev) 📗</strong></summary>
+
+1. [Что такое PID, FD (File Descriptor), Stdin/Stdout/Stderr?](Theme/Linux_DevOps.md#что-такое-pid-fd-file-descriptor-stdinstdoutstderr)
+2. [Как сделать Docker образ с Go приложением максимально легким (Distroless, Scratch, Multi-stage build)?](Theme/Linux_DevOps.md#как-сделать-docker-образ-с-go-приложением-максимально-легким)
+3. [Что такое CI/CD? Пример пайплайна для Go проекта (Lint -> Test -> Build)](Theme/Linux_DevOps.md#что-такое-cicd-пример-пайплайна-для-go-проекта)
+4. [Makefile: зачем нужен и основные команды для Go](Theme/Linux_DevOps.md#makefile-зачем-нужен-и-основные-команды-для-go)
+5. [Как работает Graceful Restart vs Graceful Shutdown?](Theme/Linux_DevOps.md#как-работает-graceful-restart-vs-graceful-shutdown)
+</details>
