@@ -261,3 +261,24 @@
 4. [Makefile: зачем нужен и основные команды для Go](Theme/Linux_DevOps.md#makefile-зачем-нужен-и-основные-команды-для-go)
 5. [Как работает Graceful Restart vs Graceful Shutdown?](Theme/Linux_DevOps.md#как-работает-graceful-restart-vs-graceful-shutdown)
 </details>
+
+<details>
+<summary><strong>High Performance & Optimization 📕</strong></summary>
+
+1.  [Выравнивание структур (Memory Alignment/Padding): Как сэкономить память, просто переставив поля?](Theme/Optimization.md#выравнивание-структур-memory-alignmentpadding-как-сэкономить-память-просто-переставив-поля)
+2.  [Что такое False Sharing и как с ним бороться (padding в CPU cache line)?](Theme/Optimization.md#что-такое-false-sharing-и-как-с- ним-бороться-padding-в-cpu-cache-line)
+3.  [Sync.Pool: Зачем нужен, как работает и когда его НЕЛЬЗЯ использовать?](Theme/Optimization.md#syncpool-зачем-нужен-как-работает-и-когда-его-нельзя-использовать)
+4.  [Inlining функций: Что это и как посмотреть, заинлайнил ли компилятор функцию?](Theme/Optimization.md#inlining-функций-что-это-и-как-посмотреть-заинлайнил-ли-компилятор-функцию)
+5.  [String Interning: Как хранить миллионы одинаковых строк и не забить память?](Theme/Optimization.md#string-interning-как-хранить-миллионы-одинаковых-строк-и-не-забить-память)
+6.  [Zero-allocation техники: преобразование string <-> []byte без копирования](Theme/Optimization.md#zero-allocation-техники-преобразование-string---byte-без-копирования)
+</details>
+
+<details>
+<summary><strong>System Design & Scalability 📕</strong></summary>
+
+1.  [Идемпотентность (Idempotency): Что это и почему это критично для API?](Theme/System_Design.md#идемпотентность-idempotency-что-это-и-почему-это-критично-для-api)
+2.  [CAP теорема простыми словами (CP vs AP системы)](Theme/System_Design.md#cap-теорема-простыми-словами-cp-vs-ap-системы)
+3.  [Rate Limiting: Алгоритмы (Token Bucket, Leaky Bucket)](Theme/System_Design.md#rate-limiting-алгоритмы-token-bucket-leaky-bucket)
+4.  [Кеширование: Стратегии (Cache-Aside, Write-Through) и проблемы (Cache Stampede)](Theme/System_Design.md#кеширование-стратегии-cache-aside-write-through-и-проблемы-cache-stampede)
+5.  [Distributed Tracing: Зачем нужен OpenTelemetry / Jaeger?](Theme/System_Design.md#distributed-tracing-зачем-нужен-opentelemetry--jaeger)
+</details>
