@@ -1,0 +1,36 @@
+# 📔 Журнал тем (Topic Tracker)
+
+Отмечай раздел, когда полностью изучил все вопросы внутри него.
+
+## 🟢 Core (Основы)
+- [ ] [Arrays & Slices](Theme/Arrays_&_Slices.md)
+- [ ] [Maps](Theme/MAP.md)
+- [ ] [Language Details](Theme/Language_details.md)
+- [ ] [OOP](Theme/OOP.md)
+- [ ] [Interfaces](Theme/Interface.md)
+- [ ] [Exception & Panic](Theme/Exception_and_panic.md)
+
+## 🟢 Concurrency (Многопоточность)
+- [ ] [Goroutines](Theme/Goroutines.md)
+- [ ] [Channels](Theme/Channels.md)
+- [ ] [Concurrency & Parallelism](Theme/Concurrency_&_parallelism.md)
+- [ ] [Primitives of Synchronization](Theme/Primitives_of_synchronization.md)
+- [ ] [Race Condition](Theme/Race_condition.md)
+- [ ] [Planner (Scheduler)](Theme/Planner.md)
+
+## 📕 System & Backend (Система)
+- [ ] [Network & System (Context, HTTP)](Theme/Network_and_system.md)
+- [ ] [Microservices](Theme/Microservices.md)
+- [ ] [Databases & SQL](Theme/Databases.md)
+- [ ] [Security](Theme/Security.md)
+- [ ] [Linux & DevOps](Theme/Linux_DevOps.md)
+- [ ] [Testing](Theme/Testing.md)
+- [ ] [Tools & Ecosystem](Theme/Tools_and_ecosystem.md)
+
+## 📕 Advanced (Продвинутый)
+- [ ] [Memory Management (GC, Heap)](Theme/Memory_managment.md)
+- [ ] [Advanced (Reflect, Unsafe, Generics)](Theme/Advanced.md)
+- [ ] [Architecture & SOLID](Theme/Architecture.md)
+- [ ] [Design Patterns](Theme/Design_Patterns.md)
+- [ ] [High Performance & Optimization](Theme/Optimization.md)
+- [ ] [System Design & Scalability](Theme/System_Design.md)
